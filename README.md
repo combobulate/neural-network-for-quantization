@@ -1,5 +1,5 @@
 # Neural network for quantization
-This work was conducted in 2019 as part of research with ARNI at UCLA.
+This work was conducted in 2019 as part of research with Algorithmic Research in Network Information Flow (ARNI) at UCLA.
  
 The following files are included:
 
