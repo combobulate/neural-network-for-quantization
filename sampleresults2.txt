@@ -1,0 +1,564 @@
+23:46:56.047813 Dataset:  CIFAR10
+23:46:56.047838 Classifier:  Pretrained
+23:46:56.047843 Epochs:  50
+23:46:56.047848 Learning rate:  0.001
+23:46:56.047854 Loss function:  CELWithEncodedMSE
+23:46:56.047858 Optimizer: Adam
+23:46:56.047863 Encoders:  3
+23:46:56.047867 Encoder type:  Simple 1D
+23:46:56.047871 Encoder neurons:  200
+23:46:56.047875 Bits per encoder:  4
+23:47:16.364342 Epoch [1/50], Step [100/500], Loss: 1.9644, CELLoss: 1.7811, MSELoss: 0.1833
+23:47:45.125374 Epoch [1/50], Step [200/500], Loss: 2.1184, CELLoss: 1.9349, MSELoss: 0.1834
+23:48:13.750204 Epoch [1/50], Step [300/500], Loss: 1.9434, CELLoss: 1.7575, MSELoss: 0.1859
+23:48:42.536989 Epoch [1/50], Step [400/500], Loss: 1.9021, CELLoss: 1.7202, MSELoss: 0.1820
+23:49:11.069179 Epoch [1/50], Step [500/500], Loss: 1.8677, CELLoss: 1.6857, MSELoss: 0.1820
+23:49:19.621929 
+Accuracy of the network on the training epoch: 34.366 %
+23:49:34.148875 
+Accuracy of the network on the 10000 test images without rounding: 35.59 %
+23:49:48.878809 
+Accuracy of the network on the 10000 test images with rounding: 12.81 %
+23:50:09.409466 Epoch [2/50], Step [100/500], Loss: 1.7545, CELLoss: 1.5728, MSELoss: 0.1817
+23:50:38.282013 Epoch [2/50], Step [200/500], Loss: 1.8711, CELLoss: 1.6933, MSELoss: 0.1778
+23:51:06.763558 Epoch [2/50], Step [300/500], Loss: 1.6829, CELLoss: 1.5036, MSELoss: 0.1794
+23:51:35.569837 Epoch [2/50], Step [400/500], Loss: 1.9839, CELLoss: 1.8047, MSELoss: 0.1792
+23:52:04.701400 Epoch [2/50], Step [500/500], Loss: 1.5688, CELLoss: 1.3933, MSELoss: 0.1754
+23:52:13.312821 
+Accuracy of the network on the training epoch: 43.218 %
+23:52:30.159449 
+Accuracy of the network on the 10000 test images without rounding: 40.79 %
+23:52:47.006915 
+Accuracy of the network on the 10000 test images with rounding: 19.07 %
+23:53:07.124015 Epoch [3/50], Step [100/500], Loss: 1.6231, CELLoss: 1.4483, MSELoss: 0.1748
+23:53:35.994364 Epoch [3/50], Step [200/500], Loss: 1.7165, CELLoss: 1.5375, MSELoss: 0.1790
+23:54:04.560231 Epoch [3/50], Step [300/500], Loss: 1.6122, CELLoss: 1.4332, MSELoss: 0.1790
+23:54:33.243539 Epoch [3/50], Step [400/500], Loss: 1.6402, CELLoss: 1.4651, MSELoss: 0.1752
+23:55:01.740264 Epoch [3/50], Step [500/500], Loss: 1.7593, CELLoss: 1.5857, MSELoss: 0.1736
+23:55:10.324403 
+Accuracy of the network on the training epoch: 47.16 %
+23:55:24.846039 
+Accuracy of the network on the 10000 test images without rounding: 43.1 %
+23:55:39.549644 
+Accuracy of the network on the 10000 test images with rounding: 18.57 %
+23:55:59.972487 Epoch [4/50], Step [100/500], Loss: 1.5906, CELLoss: 1.4185, MSELoss: 0.1721
+23:56:28.566803 Epoch [4/50], Step [200/500], Loss: 1.4829, CELLoss: 1.3132, MSELoss: 0.1698
+23:56:56.990628 Epoch [4/50], Step [300/500], Loss: 1.6874, CELLoss: 1.5171, MSELoss: 0.1703
+23:57:25.519479 Epoch [4/50], Step [400/500], Loss: 1.6551, CELLoss: 1.4860, MSELoss: 0.1691
+23:57:54.061084 Epoch [4/50], Step [500/500], Loss: 1.6363, CELLoss: 1.4665, MSELoss: 0.1698
+23:58:02.501154 
+Accuracy of the network on the training epoch: 49.386 %
+23:58:19.228866 
+Accuracy of the network on the 10000 test images without rounding: 44.5 %
+23:58:36.016301 
+Accuracy of the network on the 10000 test images with rounding: 20.16 %
+23:58:56.099136 Epoch [5/50], Step [100/500], Loss: 1.5100, CELLoss: 1.3444, MSELoss: 0.1655
+23:59:24.885345 Epoch [5/50], Step [200/500], Loss: 1.4811, CELLoss: 1.3142, MSELoss: 0.1669
+23:59:53.753321 Epoch [5/50], Step [300/500], Loss: 1.4036, CELLoss: 1.2361, MSELoss: 0.1676
+00:00:22.403925 Epoch [5/50], Step [400/500], Loss: 1.6007, CELLoss: 1.4332, MSELoss: 0.1675
+00:00:51.115836 Epoch [5/50], Step [500/500], Loss: 1.3825, CELLoss: 1.2181, MSELoss: 0.1644
+00:00:59.703935 
+Accuracy of the network on the training epoch: 51.54 %
+00:01:14.223873 
+Accuracy of the network on the 10000 test images without rounding: 46.31 %
+00:01:28.927784 
+Accuracy of the network on the 10000 test images with rounding: 21.46 %
+00:01:49.384209 Epoch [6/50], Step [100/500], Loss: 1.3832, CELLoss: 1.2204, MSELoss: 0.1628
+00:02:18.125115 Epoch [6/50], Step [200/500], Loss: 1.3885, CELLoss: 1.2263, MSELoss: 0.1622
+00:02:46.496044 Epoch [6/50], Step [300/500], Loss: 1.3933, CELLoss: 1.2320, MSELoss: 0.1613
+00:03:15.191174 Epoch [6/50], Step [400/500], Loss: 1.7018, CELLoss: 1.5419, MSELoss: 0.1599
+00:03:43.860293 Epoch [6/50], Step [500/500], Loss: 1.4828, CELLoss: 1.3247, MSELoss: 0.1581
+00:03:52.383196 
+Accuracy of the network on the training epoch: 53.18 %
+00:04:09.259828 
+Accuracy of the network on the 10000 test images without rounding: 48.47 %
+00:04:26.045765 
+Accuracy of the network on the 10000 test images with rounding: 22.81 %
+00:04:46.164115 Epoch [7/50], Step [100/500], Loss: 1.6770, CELLoss: 1.5176, MSELoss: 0.1594
+00:05:14.968968 Epoch [7/50], Step [200/500], Loss: 1.5190, CELLoss: 1.3608, MSELoss: 0.1581
+00:05:43.649663 Epoch [7/50], Step [300/500], Loss: 1.4752, CELLoss: 1.3200, MSELoss: 0.1552
+00:06:12.334167 Epoch [7/50], Step [400/500], Loss: 1.5023, CELLoss: 1.3474, MSELoss: 0.1549
+00:06:40.814520 Epoch [7/50], Step [500/500], Loss: 1.4053, CELLoss: 1.2510, MSELoss: 0.1543
+00:06:49.378011 
+Accuracy of the network on the training epoch: 54.626 %
+00:07:03.933780 
+Accuracy of the network on the 10000 test images without rounding: 50.17 %
+00:07:18.646538 
+Accuracy of the network on the 10000 test images with rounding: 22.24 %
+00:07:39.090640 Epoch [8/50], Step [100/500], Loss: 1.3888, CELLoss: 1.2351, MSELoss: 0.1537
+00:08:07.831847 Epoch [8/50], Step [200/500], Loss: 1.4095, CELLoss: 1.2566, MSELoss: 0.1529
+00:08:36.202527 Epoch [8/50], Step [300/500], Loss: 1.6526, CELLoss: 1.5017, MSELoss: 0.1509
+00:09:04.777235 Epoch [8/50], Step [400/500], Loss: 1.3919, CELLoss: 1.2407, MSELoss: 0.1513
+00:09:33.402240 Epoch [8/50], Step [500/500], Loss: 1.4468, CELLoss: 1.2995, MSELoss: 0.1473
+00:09:41.989623 
+Accuracy of the network on the training epoch: 56.172 %
+00:09:58.775858 
+Accuracy of the network on the 10000 test images without rounding: 47.84 %
+00:10:15.563036 
+Accuracy of the network on the 10000 test images with rounding: 20.95 %
+00:10:35.676154 Epoch [9/50], Step [100/500], Loss: 1.2950, CELLoss: 1.1459, MSELoss: 0.1491
+00:11:04.653519 Epoch [9/50], Step [200/500], Loss: 1.4967, CELLoss: 1.3501, MSELoss: 0.1466
+00:11:33.292939 Epoch [9/50], Step [300/500], Loss: 1.4754, CELLoss: 1.3320, MSELoss: 0.1434
+00:12:02.183769 Epoch [9/50], Step [400/500], Loss: 1.4037, CELLoss: 1.2620, MSELoss: 0.1417
+00:12:30.721354 Epoch [9/50], Step [500/500], Loss: 1.3649, CELLoss: 1.2233, MSELoss: 0.1416
+00:12:39.310981 
+Accuracy of the network on the training epoch: 57.398 %
+00:12:53.895856 
+Accuracy of the network on the 10000 test images without rounding: 49.33 %
+00:13:08.616101 
+Accuracy of the network on the 10000 test images with rounding: 22.18 %
+00:13:29.047745 Epoch [10/50], Step [100/500], Loss: 1.1211, CELLoss: 0.9793, MSELoss: 0.1418
+00:13:58.000991 Epoch [10/50], Step [200/500], Loss: 1.1821, CELLoss: 1.0417, MSELoss: 0.1404
+00:14:26.546224 Epoch [10/50], Step [300/500], Loss: 1.3197, CELLoss: 1.1819, MSELoss: 0.1378
+00:14:55.303075 Epoch [10/50], Step [400/500], Loss: 1.2849, CELLoss: 1.1467, MSELoss: 0.1382
+00:15:24.021259 Epoch [10/50], Step [500/500], Loss: 1.3027, CELLoss: 1.1688, MSELoss: 0.1338
+00:15:32.635331 
+Accuracy of the network on the training epoch: 58.79 %
+00:15:49.476239 
+Accuracy of the network on the 10000 test images without rounding: 49.49 %
+00:16:06.268090 
+Accuracy of the network on the 10000 test images with rounding: 22.47 %
+00:16:26.274023 Epoch [11/50], Step [100/500], Loss: 1.0175, CELLoss: 0.8841, MSELoss: 0.1334
+00:16:55.005267 Epoch [11/50], Step [200/500], Loss: 1.1901, CELLoss: 1.0543, MSELoss: 0.1358
+00:17:23.517918 Epoch [11/50], Step [300/500], Loss: 1.1072, CELLoss: 0.9773, MSELoss: 0.1299
+00:17:52.272992 Epoch [11/50], Step [400/500], Loss: 1.2263, CELLoss: 1.0952, MSELoss: 0.1311
+00:18:20.761330 Epoch [11/50], Step [500/500], Loss: 1.6561, CELLoss: 1.5291, MSELoss: 0.1270
+00:18:29.350779 
+Accuracy of the network on the training epoch: 60.028 %
+00:18:43.932175 
+Accuracy of the network on the 10000 test images without rounding: 48.35 %
+00:18:58.658277 
+Accuracy of the network on the 10000 test images with rounding: 21.64 %
+00:19:19.038540 Epoch [12/50], Step [100/500], Loss: 1.1448, CELLoss: 1.0157, MSELoss: 0.1291
+00:19:47.838026 Epoch [12/50], Step [200/500], Loss: 1.3897, CELLoss: 1.2628, MSELoss: 0.1269
+00:20:16.266275 Epoch [12/50], Step [300/500], Loss: 1.1909, CELLoss: 1.0641, MSELoss: 0.1269
+00:20:44.786418 Epoch [12/50], Step [400/500], Loss: 1.1965, CELLoss: 1.0721, MSELoss: 0.1245
+00:21:13.525768 Epoch [12/50], Step [500/500], Loss: 1.2650, CELLoss: 1.1422, MSELoss: 0.1227
+00:21:22.110133 
+Accuracy of the network on the training epoch: 61.23 %
+00:21:38.980998 
+Accuracy of the network on the 10000 test images without rounding: 49.16 %
+00:21:55.759263 
+Accuracy of the network on the 10000 test images with rounding: 21.5 %
+00:22:15.808677 Epoch [13/50], Step [100/500], Loss: 1.2332, CELLoss: 1.1093, MSELoss: 0.1239
+00:22:44.939708 Epoch [13/50], Step [200/500], Loss: 1.3711, CELLoss: 1.2526, MSELoss: 0.1185
+00:23:13.475378 Epoch [13/50], Step [300/500], Loss: 1.3222, CELLoss: 1.2031, MSELoss: 0.1191
+00:23:42.268328 Epoch [13/50], Step [400/500], Loss: 1.2309, CELLoss: 1.1119, MSELoss: 0.1191
+00:24:10.831815 Epoch [13/50], Step [500/500], Loss: 1.2604, CELLoss: 1.1437, MSELoss: 0.1167
+00:24:19.384261 
+Accuracy of the network on the training epoch: 62.534 %
+00:24:33.944135 
+Accuracy of the network on the 10000 test images without rounding: 49.73 %
+00:24:48.687383 
+Accuracy of the network on the 10000 test images with rounding: 23.25 %
+00:25:09.068311 Epoch [14/50], Step [100/500], Loss: 1.2812, CELLoss: 1.1669, MSELoss: 0.1143
+00:25:37.856696 Epoch [14/50], Step [200/500], Loss: 1.0998, CELLoss: 0.9830, MSELoss: 0.1168
+00:26:06.416769 Epoch [14/50], Step [300/500], Loss: 1.3886, CELLoss: 1.2755, MSELoss: 0.1131
+00:26:35.015373 Epoch [14/50], Step [400/500], Loss: 1.3459, CELLoss: 1.2340, MSELoss: 0.1119
+00:27:03.412493 Epoch [14/50], Step [500/500], Loss: 1.1725, CELLoss: 1.0616, MSELoss: 0.1109
+00:27:11.916622 
+Accuracy of the network on the training epoch: 63.518 %
+00:27:28.694497 
+Accuracy of the network on the 10000 test images without rounding: 50.33 %
+00:27:45.392512 
+Accuracy of the network on the 10000 test images with rounding: 22.56 %
+00:28:05.395029 Epoch [15/50], Step [100/500], Loss: 0.9864, CELLoss: 0.8771, MSELoss: 0.1093
+00:28:34.199539 Epoch [15/50], Step [200/500], Loss: 1.1496, CELLoss: 1.0387, MSELoss: 0.1109
+00:29:02.878637 Epoch [15/50], Step [300/500], Loss: 1.0207, CELLoss: 0.9118, MSELoss: 0.1089
+00:29:31.977011 Epoch [15/50], Step [400/500], Loss: 1.1018, CELLoss: 0.9940, MSELoss: 0.1078
+00:30:01.266139 Epoch [15/50], Step [500/500], Loss: 1.1849, CELLoss: 1.0783, MSELoss: 0.1066
+00:30:09.835647 
+Accuracy of the network on the training epoch: 65.066 %
+00:30:24.282416 
+Accuracy of the network on the 10000 test images without rounding: 50.59 %
+00:30:38.875065 
+Accuracy of the network on the 10000 test images with rounding: 22.69 %
+00:30:59.273685 Epoch [16/50], Step [100/500], Loss: 1.0885, CELLoss: 0.9820, MSELoss: 0.1066
+00:31:28.082416 Epoch [16/50], Step [200/500], Loss: 1.0558, CELLoss: 0.9517, MSELoss: 0.1041
+00:31:56.611118 Epoch [16/50], Step [300/500], Loss: 1.0384, CELLoss: 0.9334, MSELoss: 0.1051
+00:32:25.139254 Epoch [16/50], Step [400/500], Loss: 1.1371, CELLoss: 1.0340, MSELoss: 0.1031
+00:32:53.659099 Epoch [16/50], Step [500/500], Loss: 0.9813, CELLoss: 0.8821, MSELoss: 0.0992
+00:33:02.091570 
+Accuracy of the network on the training epoch: 65.996 %
+00:33:18.796362 
+Accuracy of the network on the 10000 test images without rounding: 48.47 %
+00:33:35.492478 
+Accuracy of the network on the 10000 test images with rounding: 22.55 %
+00:33:55.494860 Epoch [17/50], Step [100/500], Loss: 0.9493, CELLoss: 0.8479, MSELoss: 0.1014
+00:34:24.087517 Epoch [17/50], Step [200/500], Loss: 1.0614, CELLoss: 0.9592, MSELoss: 0.1022
+00:34:52.380984 Epoch [17/50], Step [300/500], Loss: 0.9528, CELLoss: 0.8533, MSELoss: 0.0994
+00:35:20.949773 Epoch [17/50], Step [400/500], Loss: 1.0180, CELLoss: 0.9185, MSELoss: 0.0995
+00:35:49.320338 Epoch [17/50], Step [500/500], Loss: 1.0602, CELLoss: 0.9620, MSELoss: 0.0982
+00:35:57.788945 
+Accuracy of the network on the training epoch: 67.064 %
+00:36:12.255133 
+Accuracy of the network on the 10000 test images without rounding: 49.92 %
+00:36:26.836325 
+Accuracy of the network on the 10000 test images with rounding: 20.26 %
+00:36:47.173559 Epoch [18/50], Step [100/500], Loss: 0.9862, CELLoss: 0.8877, MSELoss: 0.0986
+00:37:15.693204 Epoch [18/50], Step [200/500], Loss: 0.8342, CELLoss: 0.7350, MSELoss: 0.0992
+00:37:44.029699 Epoch [18/50], Step [300/500], Loss: 1.1336, CELLoss: 1.0359, MSELoss: 0.0977
+00:38:12.639502 Epoch [18/50], Step [400/500], Loss: 1.0071, CELLoss: 0.9101, MSELoss: 0.0970
+00:38:41.075416 Epoch [18/50], Step [500/500], Loss: 1.0383, CELLoss: 0.9439, MSELoss: 0.0944
+00:38:49.526409 
+Accuracy of the network on the training epoch: 68.254 %
+00:39:06.231894 
+Accuracy of the network on the 10000 test images without rounding: 49.97 %
+00:39:22.964708 
+Accuracy of the network on the 10000 test images with rounding: 21.07 %
+00:39:43.017129 Epoch [19/50], Step [100/500], Loss: 0.9409, CELLoss: 0.8451, MSELoss: 0.0957
+00:40:11.686129 Epoch [19/50], Step [200/500], Loss: 0.9937, CELLoss: 0.8981, MSELoss: 0.0957
+00:40:40.133205 Epoch [19/50], Step [300/500], Loss: 0.9540, CELLoss: 0.8623, MSELoss: 0.0917
+00:41:08.910074 Epoch [19/50], Step [400/500], Loss: 1.0690, CELLoss: 0.9765, MSELoss: 0.0926
+00:41:37.389693 Epoch [19/50], Step [500/500], Loss: 1.0033, CELLoss: 0.9144, MSELoss: 0.0888
+00:41:45.843581 
+Accuracy of the network on the training epoch: 69.414 %
+00:42:00.347197 
+Accuracy of the network on the 10000 test images without rounding: 49.46 %
+00:42:14.894597 
+Accuracy of the network on the 10000 test images with rounding: 19.1 %
+00:42:35.155976 Epoch [20/50], Step [100/500], Loss: 0.8840, CELLoss: 0.7930, MSELoss: 0.0910
+00:43:03.554551 Epoch [20/50], Step [200/500], Loss: 1.0040, CELLoss: 0.9121, MSELoss: 0.0920
+00:43:31.579306 Epoch [20/50], Step [300/500], Loss: 0.8578, CELLoss: 0.7711, MSELoss: 0.0867
+00:43:59.981639 Epoch [20/50], Step [400/500], Loss: 0.9345, CELLoss: 0.8465, MSELoss: 0.0879
+00:44:28.183325 Epoch [20/50], Step [500/500], Loss: 0.8642, CELLoss: 0.7755, MSELoss: 0.0887
+00:44:36.579659 
+Accuracy of the network on the training epoch: 70.464 %
+00:44:53.286532 
+Accuracy of the network on the 10000 test images without rounding: 49.75 %
+00:45:09.917426 
+Accuracy of the network on the 10000 test images with rounding: 20.24 %
+00:45:29.782409 Epoch [21/50], Step [100/500], Loss: 0.8386, CELLoss: 0.7523, MSELoss: 0.0863
+00:45:58.054347 Epoch [21/50], Step [200/500], Loss: 0.8587, CELLoss: 0.7705, MSELoss: 0.0882
+00:46:26.020902 Epoch [21/50], Step [300/500], Loss: 0.8532, CELLoss: 0.7659, MSELoss: 0.0873
+00:46:54.371237 Epoch [21/50], Step [400/500], Loss: 0.9242, CELLoss: 0.8395, MSELoss: 0.0848
+00:47:22.622167 Epoch [21/50], Step [500/500], Loss: 0.8468, CELLoss: 0.7615, MSELoss: 0.0853
+00:47:30.886327 
+Accuracy of the network on the training epoch: 71.598 %
+00:47:45.400168 
+Accuracy of the network on the 10000 test images without rounding: 48.97 %
+00:48:00.004085 
+Accuracy of the network on the 10000 test images with rounding: 19.71 %
+00:48:20.190259 Epoch [22/50], Step [100/500], Loss: 0.7579, CELLoss: 0.6742, MSELoss: 0.0837
+00:48:48.359234 Epoch [22/50], Step [200/500], Loss: 0.6284, CELLoss: 0.5408, MSELoss: 0.0876
+00:49:16.249740 Epoch [22/50], Step [300/500], Loss: 0.7832, CELLoss: 0.7016, MSELoss: 0.0816
+00:49:44.384110 Epoch [22/50], Step [400/500], Loss: 0.8764, CELLoss: 0.7952, MSELoss: 0.0812
+00:50:12.414758 Epoch [22/50], Step [500/500], Loss: 0.8602, CELLoss: 0.7768, MSELoss: 0.0834
+00:50:20.642761 
+Accuracy of the network on the training epoch: 72.792 %
+00:50:37.313626 
+Accuracy of the network on the 10000 test images without rounding: 48.65 %
+00:50:53.908546 
+Accuracy of the network on the 10000 test images with rounding: 19.79 %
+00:51:13.756240 Epoch [23/50], Step [100/500], Loss: 0.8199, CELLoss: 0.7366, MSELoss: 0.0833
+00:51:42.108950 Epoch [23/50], Step [200/500], Loss: 0.6612, CELLoss: 0.5782, MSELoss: 0.0829
+00:52:10.190231 Epoch [23/50], Step [300/500], Loss: 0.8611, CELLoss: 0.7803, MSELoss: 0.0808
+00:52:38.609533 Epoch [23/50], Step [400/500], Loss: 0.8749, CELLoss: 0.7936, MSELoss: 0.0813
+00:53:06.647067 Epoch [23/50], Step [500/500], Loss: 0.7921, CELLoss: 0.7116, MSELoss: 0.0805
+00:53:15.122786 
+Accuracy of the network on the training epoch: 73.212 %
+00:53:29.602355 
+Accuracy of the network on the 10000 test images without rounding: 49.48 %
+00:53:44.237986 
+Accuracy of the network on the 10000 test images with rounding: 19.3 %
+00:54:04.509151 Epoch [24/50], Step [100/500], Loss: 0.6645, CELLoss: 0.5835, MSELoss: 0.0810
+00:54:32.869250 Epoch [24/50], Step [200/500], Loss: 0.6411, CELLoss: 0.5615, MSELoss: 0.0795
+00:55:01.046899 Epoch [24/50], Step [300/500], Loss: 0.8242, CELLoss: 0.7433, MSELoss: 0.0809
+00:55:29.976644 Epoch [24/50], Step [400/500], Loss: 0.7922, CELLoss: 0.7156, MSELoss: 0.0766
+00:55:58.993860 Epoch [24/50], Step [500/500], Loss: 0.8953, CELLoss: 0.8164, MSELoss: 0.0789
+00:56:07.608423 
+Accuracy of the network on the training epoch: 74.51 %
+00:56:24.364526 
+Accuracy of the network on the 10000 test images without rounding: 48.57 %
+00:56:41.097664 
+Accuracy of the network on the 10000 test images with rounding: 21.57 %
+00:57:01.063169 Epoch [25/50], Step [100/500], Loss: 0.7539, CELLoss: 0.6767, MSELoss: 0.0772
+00:57:29.649238 Epoch [25/50], Step [200/500], Loss: 0.7129, CELLoss: 0.6348, MSELoss: 0.0781
+00:57:58.004922 Epoch [25/50], Step [300/500], Loss: 0.8220, CELLoss: 0.7441, MSELoss: 0.0779
+00:58:26.807218 Epoch [25/50], Step [400/500], Loss: 0.6717, CELLoss: 0.5947, MSELoss: 0.0770
+00:58:55.639504 Epoch [25/50], Step [500/500], Loss: 0.7448, CELLoss: 0.6682, MSELoss: 0.0767
+00:59:04.271753 
+Accuracy of the network on the training epoch: 75.214 %
+00:59:18.750764 
+Accuracy of the network on the 10000 test images without rounding: 48.51 %
+00:59:33.348891 
+Accuracy of the network on the 10000 test images with rounding: 20.05 %
+00:59:53.759496 Epoch [26/50], Step [100/500], Loss: 0.7909, CELLoss: 0.7115, MSELoss: 0.0793
+01:00:22.420218 Epoch [26/50], Step [200/500], Loss: 0.6197, CELLoss: 0.5435, MSELoss: 0.0762
+01:00:50.759534 Epoch [26/50], Step [300/500], Loss: 0.6701, CELLoss: 0.5939, MSELoss: 0.0762
+01:01:19.409219 Epoch [26/50], Step [400/500], Loss: 0.9002, CELLoss: 0.8249, MSELoss: 0.0753
+01:01:47.884145 Epoch [26/50], Step [500/500], Loss: 0.9299, CELLoss: 0.8546, MSELoss: 0.0753
+01:01:56.393394 
+Accuracy of the network on the training epoch: 75.904 %
+01:02:13.191542 
+Accuracy of the network on the 10000 test images without rounding: 48.73 %
+01:02:29.905944 
+Accuracy of the network on the 10000 test images with rounding: 19.23 %
+01:02:50.005655 Epoch [27/50], Step [100/500], Loss: 0.6641, CELLoss: 0.5870, MSELoss: 0.0771
+01:03:18.652513 Epoch [27/50], Step [200/500], Loss: 0.7971, CELLoss: 0.7223, MSELoss: 0.0749
+01:03:47.038585 Epoch [27/50], Step [300/500], Loss: 0.6561, CELLoss: 0.5818, MSELoss: 0.0743
+01:04:15.739737 Epoch [27/50], Step [400/500], Loss: 0.9526, CELLoss: 0.8773, MSELoss: 0.0753
+01:04:44.206852 Epoch [27/50], Step [500/500], Loss: 0.7571, CELLoss: 0.6791, MSELoss: 0.0780
+01:04:52.703882 
+Accuracy of the network on the training epoch: 76.558 %
+01:05:07.192024 
+Accuracy of the network on the 10000 test images without rounding: 48.6 %
+01:05:21.791979 
+Accuracy of the network on the 10000 test images with rounding: 19.54 %
+01:05:42.244450 Epoch [28/50], Step [100/500], Loss: 0.9487, CELLoss: 0.8739, MSELoss: 0.0748
+01:06:11.244874 Epoch [28/50], Step [200/500], Loss: 0.7486, CELLoss: 0.6747, MSELoss: 0.0739
+01:06:40.039159 Epoch [28/50], Step [300/500], Loss: 0.9644, CELLoss: 0.8886, MSELoss: 0.0758
+01:07:08.811979 Epoch [28/50], Step [400/500], Loss: 0.9051, CELLoss: 0.8319, MSELoss: 0.0732
+01:07:37.556448 Epoch [28/50], Step [500/500], Loss: 0.9240, CELLoss: 0.8525, MSELoss: 0.0715
+01:07:46.320202 
+Accuracy of the network on the training epoch: 77.678 %
+01:08:03.065508 
+Accuracy of the network on the 10000 test images without rounding: 48.51 %
+01:08:19.819496 
+Accuracy of the network on the 10000 test images with rounding: 20.63 %
+01:08:40.071982 Epoch [29/50], Step [100/500], Loss: 0.7382, CELLoss: 0.6657, MSELoss: 0.0725
+01:09:09.649191 Epoch [29/50], Step [200/500], Loss: 0.7760, CELLoss: 0.7023, MSELoss: 0.0737
+01:09:38.694209 Epoch [29/50], Step [300/500], Loss: 0.7834, CELLoss: 0.7104, MSELoss: 0.0730
+01:10:07.971662 Epoch [29/50], Step [400/500], Loss: 0.6768, CELLoss: 0.6022, MSELoss: 0.0746
+01:10:36.984631 Epoch [29/50], Step [500/500], Loss: 0.6974, CELLoss: 0.6240, MSELoss: 0.0734
+01:10:45.834626 
+Accuracy of the network on the training epoch: 78.184 %
+01:11:00.428141 
+Accuracy of the network on the 10000 test images without rounding: 48.36 %
+01:11:15.172276 
+Accuracy of the network on the 10000 test images with rounding: 19.96 %
+01:11:35.844378 Epoch [30/50], Step [100/500], Loss: 0.5257, CELLoss: 0.4527, MSELoss: 0.0730
+01:12:05.195484 Epoch [30/50], Step [200/500], Loss: 0.6137, CELLoss: 0.5429, MSELoss: 0.0708
+01:12:34.153263 Epoch [30/50], Step [300/500], Loss: 0.6819, CELLoss: 0.6127, MSELoss: 0.0692
+01:13:03.415391 Epoch [30/50], Step [400/500], Loss: 0.5585, CELLoss: 0.4870, MSELoss: 0.0716
+01:13:32.576557 Epoch [30/50], Step [500/500], Loss: 0.7842, CELLoss: 0.7111, MSELoss: 0.0730
+01:13:41.525075 
+Accuracy of the network on the training epoch: 78.926 %
+01:13:58.486043 
+Accuracy of the network on the 10000 test images without rounding: 48.58 %
+01:14:15.479498 
+Accuracy of the network on the 10000 test images with rounding: 19.47 %
+01:14:35.990825 Epoch [31/50], Step [100/500], Loss: 0.6590, CELLoss: 0.5876, MSELoss: 0.0713
+01:15:05.389344 Epoch [31/50], Step [200/500], Loss: 0.6825, CELLoss: 0.6088, MSELoss: 0.0737
+01:15:34.488017 Epoch [31/50], Step [300/500], Loss: 0.6739, CELLoss: 0.6035, MSELoss: 0.0705
+01:16:03.781385 Epoch [31/50], Step [400/500], Loss: 0.6260, CELLoss: 0.5563, MSELoss: 0.0697
+01:16:32.813288 Epoch [31/50], Step [500/500], Loss: 0.6343, CELLoss: 0.5641, MSELoss: 0.0702
+01:16:41.735180 
+Accuracy of the network on the training epoch: 79.28 %
+01:16:56.366667 
+Accuracy of the network on the 10000 test images without rounding: 48.52 %
+01:17:11.116524 
+Accuracy of the network on the 10000 test images with rounding: 19.51 %
+01:17:31.797912 Epoch [32/50], Step [100/500], Loss: 0.5209, CELLoss: 0.4530, MSELoss: 0.0678
+01:18:01.121136 Epoch [32/50], Step [200/500], Loss: 0.5547, CELLoss: 0.4840, MSELoss: 0.0707
+01:18:30.177982 Epoch [32/50], Step [300/500], Loss: 0.6929, CELLoss: 0.6199, MSELoss: 0.0730
+01:18:59.485005 Epoch [32/50], Step [400/500], Loss: 0.5946, CELLoss: 0.5266, MSELoss: 0.0680
+01:19:28.580700 Epoch [32/50], Step [500/500], Loss: 0.6681, CELLoss: 0.5981, MSELoss: 0.0700
+01:19:37.503883 
+Accuracy of the network on the training epoch: 80.126 %
+01:19:54.477357 
+Accuracy of the network on the 10000 test images without rounding: 47.97 %
+01:20:11.432833 
+Accuracy of the network on the 10000 test images with rounding: 19.72 %
+01:20:31.759681 Epoch [33/50], Step [100/500], Loss: 0.5828, CELLoss: 0.5136, MSELoss: 0.0692
+01:21:01.031769 Epoch [33/50], Step [200/500], Loss: 0.6827, CELLoss: 0.6132, MSELoss: 0.0695
+01:21:30.018349 Epoch [33/50], Step [300/500], Loss: 0.5302, CELLoss: 0.4601, MSELoss: 0.0702
+01:21:59.447401 Epoch [33/50], Step [400/500], Loss: 0.5514, CELLoss: 0.4828, MSELoss: 0.0686
+01:22:28.466330 Epoch [33/50], Step [500/500], Loss: 0.5286, CELLoss: 0.4625, MSELoss: 0.0662
+01:22:37.377602 
+Accuracy of the network on the training epoch: 80.548 %
+01:22:51.904565 
+Accuracy of the network on the 10000 test images without rounding: 48.84 %
+01:23:06.655738 
+Accuracy of the network on the 10000 test images with rounding: 20.82 %
+01:23:27.375042 Epoch [34/50], Step [100/500], Loss: 0.5857, CELLoss: 0.5177, MSELoss: 0.0681
+01:23:57.009071 Epoch [34/50], Step [200/500], Loss: 0.5190, CELLoss: 0.4520, MSELoss: 0.0670
+01:24:26.342968 Epoch [34/50], Step [300/500], Loss: 0.6038, CELLoss: 0.5390, MSELoss: 0.0648
+01:24:55.738164 Epoch [34/50], Step [400/500], Loss: 0.6242, CELLoss: 0.5549, MSELoss: 0.0693
+01:25:24.968681 Epoch [34/50], Step [500/500], Loss: 0.5344, CELLoss: 0.4646, MSELoss: 0.0697
+01:25:33.957963 
+Accuracy of the network on the training epoch: 81.506 %
+01:25:51.082076 
+Accuracy of the network on the 10000 test images without rounding: 48.63 %
+01:26:08.002622 
+Accuracy of the network on the 10000 test images with rounding: 20.17 %
+01:26:28.311761 Epoch [35/50], Step [100/500], Loss: 0.4497, CELLoss: 0.3824, MSELoss: 0.0674
+01:26:57.881095 Epoch [35/50], Step [200/500], Loss: 0.5253, CELLoss: 0.4580, MSELoss: 0.0673
+01:27:27.103480 Epoch [35/50], Step [300/500], Loss: 0.6776, CELLoss: 0.6088, MSELoss: 0.0688
+01:27:56.722321 Epoch [35/50], Step [400/500], Loss: 0.4855, CELLoss: 0.4179, MSELoss: 0.0675
+01:28:25.942846 Epoch [35/50], Step [500/500], Loss: 0.6848, CELLoss: 0.6183, MSELoss: 0.0664
+01:28:34.983376 
+Accuracy of the network on the training epoch: 81.874 %
+01:28:49.612867 
+Accuracy of the network on the 10000 test images without rounding: 47.0 %
+01:29:04.385903 
+Accuracy of the network on the 10000 test images with rounding: 19.15 %
+01:29:25.091368 Epoch [36/50], Step [100/500], Loss: 0.5548, CELLoss: 0.4887, MSELoss: 0.0660
+01:29:54.635948 Epoch [36/50], Step [200/500], Loss: 0.6206, CELLoss: 0.5560, MSELoss: 0.0647
+01:30:23.851081 Epoch [36/50], Step [300/500], Loss: 0.5568, CELLoss: 0.4926, MSELoss: 0.0642
+01:30:53.314616 Epoch [36/50], Step [400/500], Loss: 0.5577, CELLoss: 0.4911, MSELoss: 0.0666
+01:31:22.733417 Epoch [36/50], Step [500/500], Loss: 0.6019, CELLoss: 0.5355, MSELoss: 0.0664
+01:31:31.800514 
+Accuracy of the network on the training epoch: 82.562 %
+01:31:48.793272 
+Accuracy of the network on the 10000 test images without rounding: 48.13 %
+01:32:05.741521 
+Accuracy of the network on the 10000 test images with rounding: 20.69 %
+01:32:26.171535 Epoch [37/50], Step [100/500], Loss: 0.2293, CELLoss: 0.1630, MSELoss: 0.0663
+01:32:55.753507 Epoch [37/50], Step [200/500], Loss: 0.5872, CELLoss: 0.5225, MSELoss: 0.0648
+01:33:25.052700 Epoch [37/50], Step [300/500], Loss: 0.4974, CELLoss: 0.4313, MSELoss: 0.0661
+01:33:54.728002 Epoch [37/50], Step [400/500], Loss: 0.6704, CELLoss: 0.6073, MSELoss: 0.0631
+01:34:24.014655 Epoch [37/50], Step [500/500], Loss: 0.6144, CELLoss: 0.5480, MSELoss: 0.0664
+01:34:33.062870 
+Accuracy of the network on the training epoch: 82.926 %
+01:34:47.699349 
+Accuracy of the network on the 10000 test images without rounding: 47.7 %
+01:35:02.418981 
+Accuracy of the network on the 10000 test images with rounding: 19.72 %
+01:35:23.153174 Epoch [38/50], Step [100/500], Loss: 0.3952, CELLoss: 0.3285, MSELoss: 0.0667
+01:35:52.747364 Epoch [38/50], Step [200/500], Loss: 0.7258, CELLoss: 0.6622, MSELoss: 0.0636
+01:36:21.980230 Epoch [38/50], Step [300/500], Loss: 0.5471, CELLoss: 0.4809, MSELoss: 0.0662
+01:36:51.778710 Epoch [38/50], Step [400/500], Loss: 0.4332, CELLoss: 0.3661, MSELoss: 0.0671
+01:37:21.218395 Epoch [38/50], Step [500/500], Loss: 0.3745, CELLoss: 0.3092, MSELoss: 0.0653
+01:37:30.242226 
+Accuracy of the network on the training epoch: 83.748 %
+01:37:47.290996 
+Accuracy of the network on the 10000 test images without rounding: 48.6 %
+01:38:04.326122 
+Accuracy of the network on the 10000 test images with rounding: 19.24 %
+01:38:24.735695 Epoch [39/50], Step [100/500], Loss: 0.5595, CELLoss: 0.4955, MSELoss: 0.0639
+01:38:54.383291 Epoch [39/50], Step [200/500], Loss: 0.5494, CELLoss: 0.4850, MSELoss: 0.0644
+01:39:23.633278 Epoch [39/50], Step [300/500], Loss: 0.5726, CELLoss: 0.5079, MSELoss: 0.0647
+01:39:53.116623 Epoch [39/50], Step [400/500], Loss: 0.5431, CELLoss: 0.4801, MSELoss: 0.0630
+01:40:22.322065 Epoch [39/50], Step [500/500], Loss: 0.6436, CELLoss: 0.5785, MSELoss: 0.0651
+01:40:31.352790 
+Accuracy of the network on the training epoch: 83.838 %
+01:40:45.957093 
+Accuracy of the network on the 10000 test images without rounding: 47.64 %
+01:41:00.709880 
+Accuracy of the network on the 10000 test images with rounding: 19.73 %
+01:41:21.436509 Epoch [40/50], Step [100/500], Loss: 0.3338, CELLoss: 0.2690, MSELoss: 0.0648
+01:41:50.978615 Epoch [40/50], Step [200/500], Loss: 0.6176, CELLoss: 0.5530, MSELoss: 0.0646
+01:42:20.380384 Epoch [40/50], Step [300/500], Loss: 0.5115, CELLoss: 0.4494, MSELoss: 0.0621
+01:42:49.831978 Epoch [40/50], Step [400/500], Loss: 0.4507, CELLoss: 0.3891, MSELoss: 0.0616
+01:43:19.129199 Epoch [40/50], Step [500/500], Loss: 0.4623, CELLoss: 0.4003, MSELoss: 0.0620
+01:43:28.127885 
+Accuracy of the network on the training epoch: 84.332 %
+01:43:45.136919 
+Accuracy of the network on the 10000 test images without rounding: 48.02 %
+01:44:02.093639 
+Accuracy of the network on the 10000 test images with rounding: 19.47 %
+01:44:22.490899 Epoch [41/50], Step [100/500], Loss: 0.5113, CELLoss: 0.4454, MSELoss: 0.0659
+01:44:52.002015 Epoch [41/50], Step [200/500], Loss: 0.4722, CELLoss: 0.4089, MSELoss: 0.0633
+01:45:21.167468 Epoch [41/50], Step [300/500], Loss: 0.6814, CELLoss: 0.6185, MSELoss: 0.0629
+01:45:50.704976 Epoch [41/50], Step [400/500], Loss: 0.4735, CELLoss: 0.4126, MSELoss: 0.0608
+01:46:19.907315 Epoch [41/50], Step [500/500], Loss: 0.3641, CELLoss: 0.3014, MSELoss: 0.0627
+01:46:28.903998 
+Accuracy of the network on the training epoch: 84.794 %
+01:46:43.461401 
+Accuracy of the network on the 10000 test images without rounding: 48.06 %
+01:46:58.226070 
+Accuracy of the network on the 10000 test images with rounding: 20.28 %
+01:47:18.948897 Epoch [42/50], Step [100/500], Loss: 0.5431, CELLoss: 0.4794, MSELoss: 0.0637
+01:47:48.714351 Epoch [42/50], Step [200/500], Loss: 0.5168, CELLoss: 0.4548, MSELoss: 0.0619
+01:48:17.992862 Epoch [42/50], Step [300/500], Loss: 0.4655, CELLoss: 0.3994, MSELoss: 0.0662
+01:48:47.537327 Epoch [42/50], Step [400/500], Loss: 0.5571, CELLoss: 0.4947, MSELoss: 0.0624
+01:49:16.953297 Epoch [42/50], Step [500/500], Loss: 0.5082, CELLoss: 0.4449, MSELoss: 0.0633
+01:49:25.997331 
+Accuracy of the network on the training epoch: 85.14 %
+01:49:43.090065 
+Accuracy of the network on the 10000 test images without rounding: 47.12 %
+01:50:00.107226 
+Accuracy of the network on the 10000 test images with rounding: 18.08 %
+01:50:20.496817 Epoch [43/50], Step [100/500], Loss: 0.4166, CELLoss: 0.3536, MSELoss: 0.0630
+01:50:50.132405 Epoch [43/50], Step [200/500], Loss: 0.5524, CELLoss: 0.4889, MSELoss: 0.0635
+01:51:19.528683 Epoch [43/50], Step [300/500], Loss: 0.6304, CELLoss: 0.5698, MSELoss: 0.0606
+01:51:49.185068 Epoch [43/50], Step [400/500], Loss: 0.5465, CELLoss: 0.4846, MSELoss: 0.0619
+01:52:18.460756 Epoch [43/50], Step [500/500], Loss: 0.4879, CELLoss: 0.4274, MSELoss: 0.0604
+01:52:27.483593 
+Accuracy of the network on the training epoch: 85.774 %
+01:52:42.135434 
+Accuracy of the network on the 10000 test images without rounding: 47.3 %
+01:52:56.905277 
+Accuracy of the network on the 10000 test images with rounding: 18.26 %
+01:53:17.830430 Epoch [44/50], Step [100/500], Loss: 0.3952, CELLoss: 0.3321, MSELoss: 0.0631
+01:53:47.500388 Epoch [44/50], Step [200/500], Loss: 0.5292, CELLoss: 0.4667, MSELoss: 0.0625
+01:54:16.996452 Epoch [44/50], Step [300/500], Loss: 0.4369, CELLoss: 0.3750, MSELoss: 0.0619
+01:54:46.657248 Epoch [44/50], Step [400/500], Loss: 0.4383, CELLoss: 0.3761, MSELoss: 0.0622
+01:55:16.202050 Epoch [44/50], Step [500/500], Loss: 0.4663, CELLoss: 0.4058, MSELoss: 0.0605
+01:55:25.322153 
+Accuracy of the network on the training epoch: 86.07 %
+01:55:42.345549 
+Accuracy of the network on the 10000 test images without rounding: 47.45 %
+01:55:59.381644 
+Accuracy of the network on the 10000 test images with rounding: 19.28 %
+01:56:19.820329 Epoch [45/50], Step [100/500], Loss: 0.3629, CELLoss: 0.3000, MSELoss: 0.0629
+01:56:49.603793 Epoch [45/50], Step [200/500], Loss: 0.4206, CELLoss: 0.3579, MSELoss: 0.0627
+01:57:19.273343 Epoch [45/50], Step [300/500], Loss: 0.4381, CELLoss: 0.3746, MSELoss: 0.0635
+01:57:49.084490 Epoch [45/50], Step [400/500], Loss: 0.3467, CELLoss: 0.2860, MSELoss: 0.0607
+01:58:18.459832 Epoch [45/50], Step [500/500], Loss: 0.5806, CELLoss: 0.5191, MSELoss: 0.0615
+01:58:27.537572 
+Accuracy of the network on the training epoch: 86.288 %
+01:58:42.153355 
+Accuracy of the network on the 10000 test images without rounding: 46.83 %
+01:58:56.932307 
+Accuracy of the network on the 10000 test images with rounding: 21.72 %
+01:59:17.523965 Epoch [46/50], Step [100/500], Loss: 0.3114, CELLoss: 0.2524, MSELoss: 0.0590
+01:59:46.799226 Epoch [46/50], Step [200/500], Loss: 0.4226, CELLoss: 0.3619, MSELoss: 0.0607
+02:00:15.739833 Epoch [46/50], Step [300/500], Loss: 0.3829, CELLoss: 0.3246, MSELoss: 0.0583
+02:00:44.870294 Epoch [46/50], Step [400/500], Loss: 0.4969, CELLoss: 0.4368, MSELoss: 0.0601
+02:01:13.899865 Epoch [46/50], Step [500/500], Loss: 0.5859, CELLoss: 0.5253, MSELoss: 0.0606
+02:01:22.700046 
+Accuracy of the network on the training epoch: 86.672 %
+02:01:39.507090 
+Accuracy of the network on the 10000 test images without rounding: 47.92 %
+02:01:56.277633 
+Accuracy of the network on the 10000 test images with rounding: 19.22 %
+02:02:16.414561 Epoch [47/50], Step [100/500], Loss: 0.4102, CELLoss: 0.3502, MSELoss: 0.0601
+02:02:45.431698 Epoch [47/50], Step [200/500], Loss: 0.4913, CELLoss: 0.4308, MSELoss: 0.0605
+02:03:14.316027 Epoch [47/50], Step [300/500], Loss: 0.3516, CELLoss: 0.2894, MSELoss: 0.0622
+02:03:43.735955 Epoch [47/50], Step [400/500], Loss: 0.3818, CELLoss: 0.3219, MSELoss: 0.0599
+02:04:12.434681 Epoch [47/50], Step [500/500], Loss: 0.5114, CELLoss: 0.4539, MSELoss: 0.0575
+02:04:21.099650 
+Accuracy of the network on the training epoch: 86.948 %
+02:04:35.600798 
+Accuracy of the network on the 10000 test images without rounding: 47.99 %
+02:04:50.239878 
+Accuracy of the network on the 10000 test images with rounding: 19.21 %
+02:05:10.653152 Epoch [48/50], Step [100/500], Loss: 0.4211, CELLoss: 0.3637, MSELoss: 0.0573
+02:05:39.598982 Epoch [48/50], Step [200/500], Loss: 0.3822, CELLoss: 0.3218, MSELoss: 0.0604
+02:06:08.282598 Epoch [48/50], Step [300/500], Loss: 0.3756, CELLoss: 0.3168, MSELoss: 0.0588
+02:06:37.147321 Epoch [48/50], Step [400/500], Loss: 0.5653, CELLoss: 0.5063, MSELoss: 0.0590
+02:07:05.919265 Epoch [48/50], Step [500/500], Loss: 0.4295, CELLoss: 0.3685, MSELoss: 0.0609
+02:07:14.698275 
+Accuracy of the network on the training epoch: 87.46 %
+02:07:31.507422 
+Accuracy of the network on the 10000 test images without rounding: 47.3 %
+02:07:48.263109 
+Accuracy of the network on the 10000 test images with rounding: 22.17 %
+02:08:08.362273 Epoch [49/50], Step [100/500], Loss: 0.4017, CELLoss: 0.3414, MSELoss: 0.0603
+02:08:37.274976 Epoch [49/50], Step [200/500], Loss: 0.4141, CELLoss: 0.3567, MSELoss: 0.0574
+02:09:06.036461 Epoch [49/50], Step [300/500], Loss: 0.4094, CELLoss: 0.3493, MSELoss: 0.0600
+02:09:34.965127 Epoch [49/50], Step [400/500], Loss: 0.3135, CELLoss: 0.2542, MSELoss: 0.0593
+02:10:03.527921 Epoch [49/50], Step [500/500], Loss: 0.3922, CELLoss: 0.3349, MSELoss: 0.0573
+02:10:12.186811 
+Accuracy of the network on the training epoch: 87.492 %
+02:10:26.639227 
+Accuracy of the network on the 10000 test images without rounding: 47.26 %
+02:10:41.243892 
+Accuracy of the network on the 10000 test images with rounding: 21.03 %
+02:11:01.650911 Epoch [50/50], Step [100/500], Loss: 0.3797, CELLoss: 0.3223, MSELoss: 0.0574
+02:11:30.522700 Epoch [50/50], Step [200/500], Loss: 0.4956, CELLoss: 0.4374, MSELoss: 0.0582
+02:11:59.097169 Epoch [50/50], Step [300/500], Loss: 0.4523, CELLoss: 0.3923, MSELoss: 0.0600
+02:12:27.902652 Epoch [50/50], Step [400/500], Loss: 0.4532, CELLoss: 0.3913, MSELoss: 0.0619
+02:12:56.606307 Epoch [50/50], Step [500/500], Loss: 0.5661, CELLoss: 0.5061, MSELoss: 0.0600
+02:13:05.266042 
+Accuracy of the network on the training epoch: 87.816 %
+02:13:22.023651 
+Accuracy of the network on the 10000 test images without rounding: 47.11 %
+02:13:38.814198 
+Accuracy of the network on the 10000 test images with rounding: 19.13 %
+02:13:38.817433 Unrounded error:  40.706 
+
+02:13:38.817454 Rounded error:  68.686 
+
